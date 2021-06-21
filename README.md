@@ -5,7 +5,7 @@
 # C9-Professional-README-Generator
 
 ## Purpose
-A website that allows users to search for multiple cities and see what the weather in each area is like over a 5-day period.
+A node.js file that allows users to build a professional looking README.md file.
 
 ## Built With
 * HTML
