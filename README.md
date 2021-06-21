@@ -1,28 +1,23 @@
+# Professional README Generator Starter Code
 
-  # Spencer's ReadME generator!
-  
-  ## Description
-  It builds out a professional README for you
+[How to create a Professional README](./readme-guide.md)
+=======
+# C9-Professional-README-Generator
 
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Credits](#credits)
-  * [License](#license)
+## Purpose
+A website that allows users to search for multiple cities and see what the weather in each area is like over a 5-day period.
 
-  ## Installation
-  You just use node to answer some inquirer questions and it builds the README for you
+## Built With
+* HTML
+* CSS
+* JS
+* Node
 
-  ## Usage
-  open gitbash
+## Website
+https://sberkebile7.github.io/C9-Professional-README-Generator/
 
-  ## Credits
-  none
+## GitHub Repository
+https://github.com/SBerkebile7/C9-Professional-README-Generator
 
-  ## License 
-  None
-
-  ## Tests
-  You open gitbash and run it! Then check the README built in the main repo folder to verify it worked properly.
-
-  ## Questions?
-  GitHub: [https://github.com/SBerkebile7](https://github.com/SBerkebile7) & Email Address: [sberkebile@live.com]{mailto:sberkebile@live.com
+## Contribution
+Made by Spencer
