@@ -13,9 +13,6 @@ A node.js file that allows users to build a professional looking README.md file.
 * JS
 * Node
 
-## Website
-https://sberkebile7.github.io/C9-Professional-README-Generator/
-
 ## GitHub Repository
 https://github.com/SBerkebile7/C9-Professional-README-Generator
 
