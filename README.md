@@ -1,7 +1,28 @@
-<<<<<<< HEAD
-# Professional README Generator Starter Code
 
-[How to create a Professional README](./readme-guide.md)
-=======
-# C9-Professional-README-Generator
->>>>>>> efcb8670d6e9db569f63d24c3eca5b84fc1e9795
+  # Spencer's ReadME generator!
+  
+  ## Description
+  It builds out a professional README for you
+
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
+  * [License](#license)
+
+  ## Installation
+  You just use node to answer some inquirer questions and it builds the README for you
+
+  ## Usage
+  open gitbash
+
+  ## Credits
+  none
+
+  ## License 
+  None
+
+  ## Tests
+  You open gitbash and run it! Then check the README built in the main repo folder to verify it worked properly.
+
+  ## Questions?
+  GitHub: [https://github.com/SBerkebile7](https://github.com/SBerkebile7) & Email Address: [sberkebile@live.com]{mailto:sberkebile@live.com
