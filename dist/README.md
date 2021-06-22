@@ -1,11 +1,11 @@
 
-  # ease
+  # The README Generator
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-    
+  [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
+      
   
   ## Description
-  ase
+  it builds readmes
 
   * [Installation](#installation)
   * [Usage](#usage)
@@ -13,27 +13,29 @@
   * [License](#license)
 
   ## Installation
-  ase
+  no! I don't want to
 
   ## Usage
-  ase
+  Okay, here goes nothing!
 
   ## Credits
-  ase
+  Me, myself and I
 
   ## Tests
-  asease
+  By using it
 
   ## Questions?
-  GitHub: [https://github.com/ase](https://github.com/ase) & Email Address: <asd>
+  Check out more of my work on GitHub: [https://github.com/Spenny Benny](https://github.com/Spenny Benny) 
+  Or you can reach out and we can talk! Send me an email at: <sberkebile@live.com>
 
   ## License 
   
-  ### MIT License
-  A short and simple permissive license with conditions only requiring preservation of copyright and license notices. 
-  Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+  ### GNU GPLv3
+  Permissions of this strong copyleft license are conditioned on making available complete source code of 
+  licensed works and modifications, which include larger works using a licensed work, under the same license. 
+  Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
   
 
-  Copyright (c) [ase](https://github.com/ase). All rights reserved.
+  Copyright (c) [Spenny Benny](https://github.com/Spenny Benny). All rights reserved.
   
-  Licensed under the MIT License license.
+  Licensed under the GNU GPLv3 license.
