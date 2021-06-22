@@ -8,8 +8,6 @@
 A node.js file that allows users to build a professional looking README.md file.
 
 ## Built With
-* HTML
-* CSS
 * JS
 * Node
 
