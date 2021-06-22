@@ -84,15 +84,15 @@ const questions = [
         }
     },
     {
-        type:'checkbox',
+        type:'list',
         name: 'license',
-        message: 'What is your name? (Required)',
+        message: 'What license do you use for your project? (Required)',
         choices: ['Apache License 2.0', 'GNU GPLv3', 'MIT License', 'None'],
         validate: checkboxInput => {
             if(checkboxInput) {
                 return true;
             } else {
-                console.log("Please choose your licenses, if you don't have a license select 'None'.");
+                console.log("Please choose your license, if you don't have a license select 'None'.");
                 return false;
             }
         }
@@ -142,7 +142,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions)
     .then(data => {
-        writeToFile("professional-README.md", generateMarkdown(data))
+        writeToFile("./dist/README.md", generateMarkdown(data))
     })
 };
 
